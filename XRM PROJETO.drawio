@@ -1,1 +1,171 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T14:02:25.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="mbkCGpbhSKxyPeKm-7L7" version="13.5.8" type="github"><diagram id="xtvP1rPAhvEsEHkdONAQ" name="Page-1">tZNLb4QgEIB/jccmoo3bPba721fiyUOPDZFZIUExiBX764tlfGWz2e0mPTl8MwzwgUG8K+2LpjVPFQMZRCGzQbwPoohE28R9BtJ7koyg0IJh0Qwy8Q0IQ6StYNCsCo1S0oh6DXNVVZCbFaNaq25ddlRyvWpNCzgBWU7lKf0QzHBPH6LNzF9BFHxcmSRbnynpWIwnaThlqlug+BDEO62U8VFpdyAHeaMXP+/5THbamIbKXDPBsDSz2f7ts65Y+55vBEkf77DLF5UtHhg3a/rRgFZtxWBoEgbxU8eFgaym+ZDt3J07xk0p3Yi4ENuBNmDP7pNMp3fPBlQJRveuBCfco69+Pexm+yRBxhfmR0bxwoup8ezEBajlD4qiy4ouSKFN7Z/mUdhB5D9YIuGVmsgNntxwfqa/ucXPHh9+AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-08-03T14:34:01.437Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="hhdPUrBq5hYu1kb7kAFQ" version="13.5.8" type="github" pages="2">
+  <diagram id="xtvP1rPAhvEsEHkdONAQ" name="Parte1">
+    <mxGraphModel dx="1837" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-3" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="tdMSxSDI_pnduJc7i1MA-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="DNGO_dkz8Hr4vwRviVS5-3" vertex="1">
+          <mxGeometry width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;criação dos emails&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-3">
+          <mxGeometry x="45" y="26.666666666666664" width="150" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-4" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tdMSxSDI_pnduJc7i1MA-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="330" as="sourcePoint" />
+            <mxPoint x="370" y="201" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-5" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="120" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="tdMSxSDI_pnduJc7i1MA-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="DNGO_dkz8Hr4vwRviVS5-5" vertex="1">
+          <mxGeometry width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-2" value="&lt;br&gt;criar emails comerciais:&lt;br&gt;&lt;br&gt;richard.parente@xrmservice.com.br&lt;br&gt;felipe.maximo@xrmservice.com.br&lt;br&gt;sac@xrmservice.com.br&lt;br&gt;financeiro@xrmservice.com.br&lt;br&gt;comercial1@xrmservice.com.br" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-5">
+          <mxGeometry x="10" y="50" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-12" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="380" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-12">
+          <mxGeometry width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-14" value="&lt;b style=&quot;font-size: 15px&quot;&gt;configurar servidor locaweb&lt;br&gt;-- gmail&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-12">
+          <mxGeometry x="10" y="20" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="460" width="240" height="265" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-16" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-15">
+          <mxGeometry width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-17" value="&lt;b&gt;&lt;br&gt;configurar servidor locaweb para&amp;nbsp; receber a migração do backup g suite.&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-15">
+          <mxGeometry x="10" y="20" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="DNGO_dkz8Hr4vwRviVS5-15" source="DNGO_dkz8Hr4vwRviVS5-16" target="DNGO_dkz8Hr4vwRviVS5-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-34" value="&lt;font color=&quot;#ff0000&quot;&gt;&lt;br&gt;o servidor locaweb por meio do gmail não aceita fazer a migração por lotes, só individual.&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-15">
+          <mxGeometry x="10" y="70" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-42" value="&lt;font color=&quot;#0000ff&quot;&gt;&lt;br&gt;richard.parente@xrmservice.com.br&lt;br&gt;felipe.maximo@xrmservice.com.br&lt;br&gt;sac@xrmservice.com.br&lt;br&gt;financeiro@xrmservice.com.br&lt;br&gt;comercial1@xrmservice.com.br&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-15">
+          <mxGeometry x="10" y="125" width="220" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="360" as="sourcePoint" />
+            <mxPoint x="300" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="380" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-19">
+          <mxGeometry width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-38" value="&lt;b style=&quot;font-size: 15px&quot;&gt;configurar servidor locaweb&lt;br&gt;-- outlook&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-19">
+          <mxGeometry x="10" y="23.34" width="220" height="33.33" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="460" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-22">
+          <mxGeometry width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-24" value="&lt;br&gt;migrar todos os emails:&lt;br&gt;&lt;br&gt;richard.parente@xrmservice.com.br&lt;br&gt;felipe.maximo@xrmservice.com.br&lt;br&gt;sac@xrmservice.com.br&lt;br&gt;financeiro@xrmservice.com.br&lt;br&gt;comercial1@xrmservice.com.br" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-22">
+          <mxGeometry x="10" y="80" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-43" value="&lt;br&gt;&lt;b&gt;configurar servidor locaweb para&amp;nbsp; receber a migração do backup via outlook&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-22">
+          <mxGeometry x="10" y="20" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-25" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280.00000000000006" y="560.12" as="sourcePoint" />
+            <mxPoint x="390" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="120" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-27" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-26">
+          <mxGeometry width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-28" value="&lt;br&gt;realizar os backups -- GMAIL&lt;br&gt;&lt;br&gt;richard.parente@xrmservice.com.br&lt;br&gt;felipe.maximo@xrmservice.com.br&lt;br&gt;sac@xrmservice.com.br&lt;br&gt;financeiro@xrmservice.com.br&lt;br&gt;comercial1@xrmservice.com.br" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-26">
+          <mxGeometry x="10" y="50" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-29" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="40" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-29">
+          <mxGeometry width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;backups g suite&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-29">
+          <mxGeometry x="45" y="26.666666666666664" width="150" height="26.666666666666664" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-44" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="700" as="sourcePoint" />
+            <mxPoint x="300" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-45" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="800" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-46" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="720" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-46">
+          <mxGeometry width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-48" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;testes&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-46">
+          <mxGeometry x="37.5" y="20" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-49" value="&lt;h1 style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;testar todos os emails, conferir a importação de todos os dados, enviar e receber.&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="860" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-50" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="720" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-50">
+          <mxGeometry width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-52" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;loja virtual&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DNGO_dkz8Hr4vwRviVS5-50">
+          <mxGeometry x="37.5" y="20" width="165" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-53" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-54" value="" style="endArrow=classic;html=1;exitX=1.008;exitY=0.338;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="919.6199999999999" as="sourcePoint" />
+            <mxPoint x="390" y="919.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DNGO_dkz8Hr4vwRviVS5-55" value="&lt;h1 style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;elaborar junto a xrm o projeto da loja&lt;/font&gt;&lt;/span&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="860" width="190" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NUYi_OSyfvzh6kj_ZSHV" name="Parte2">
+    <mxGraphModel dx="1102" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="q-x5dQ43cW5-kNVV9OVy-0" />
+        <mxCell id="q-x5dQ43cW5-kNVV9OVy-1" parent="q-x5dQ43cW5-kNVV9OVy-0" />
+        <mxCell id="q-x5dQ43cW5-kNVV9OVy-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#ffffff;" vertex="1" parent="q-x5dQ43cW5-kNVV9OVy-1">
+          <mxGeometry x="40" y="40" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q-x5dQ43cW5-kNVV9OVy-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;gradientColor=#ffffff;" vertex="1" parent="q-x5dQ43cW5-kNVV9OVy-1">
+          <mxGeometry x="40" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="q-x5dQ43cW5-kNVV9OVy-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;ideias projeto loja&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="q-x5dQ43cW5-kNVV9OVy-1">
+          <mxGeometry x="85" y="60" width="110" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
